@@ -1,0 +1,28 @@
+{
+    "id": "48255DAF",
+    "path": "~/Desktop/DATA5002/project/proj.R",
+    "project_path": "proj.R",
+    "type": "r_source",
+    "hash": "292567093",
+    "contents": "",
+    "dirty": false,
+    "created": 1763599111774.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "40,75",
+        "scrollLine": "27",
+        "ignored_words": "TZcode,datasets,dataframe\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1763704963,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1763704963621,
+    "read_only": false,
+    "read_only_alternatives": []
+}
